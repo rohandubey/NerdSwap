@@ -1,10 +1,4 @@
-<%--
-  Created by IntelliJ IDEA.
-  User: Debotush
-  Date: 8/16/2019
-  Time: 11:07 AM
-  To change this template use File | Settings | File Templates.
---%>
+
 <nav class="navbar navbar-expand-sm bg-light">
     <img src="/img/logo-t.png" width="150px" height="50px"/>
 
