@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: IHM
+Build-Jdk: 17.0.2
+Implementation-Title: bookSharing
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.diprobet
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/bookSharing
+Created-By: Maven Integration for Eclipse
+
